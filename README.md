@@ -1,32 +1,87 @@
-<h1 align="center">Hi 👋, I'm Mehdi Forkani</h1>
-<h3 align="center">I'm a passionate web developer and self-learner from Casablanca, Morocco</h3>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=forkanimahdi&label=Profile%20views&color=0e75b6&style=flat" alt="forkanimahdi" /> 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=forkanimahdi&label=Profile%20views&color=0e75b6&style=flat" alt="forkanimahdi" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forkanimahdi" alt="forkanimahdi" /></a> </p>
+<h4 align="left">Hey there, I'm Mehdi Forkani! 👋</h4>
 
-- 🔭 I’m currently working on **Portfolio**
+###
 
-- 🌱 I’m currently learning **Laravel**
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&hide_title=false&hide_rank=false&show_icons=true&&card_width=500&langs_count=5&include_all_commits=true&count_private=true&disable_animations=trur&theme=midnight-purple&locale=en&hide_border=true" height="160" width="500" alt="stats graph"  />
 
-- 💬 Ask me about **react , js ,laravel**
+<img  width="500"  height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&theme=midnight-purple" alt="forkanimahdi" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forkanimahdi&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=5&theme=midnight-purple&hide_border=true"  height="150" alt="languages graph"  />
 
-- 📫 How to reach me **forkanimahdi@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/forkanimahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="forkanimahdi" height="30" width="40" /></a>
-<a href="https://twitter.com/forkanimahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="forkanimahdi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/forkanimahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="forkanimahdi" height="30" width="40" /></a>
-<a href="https://fb.com/forkanimahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="forkanimahdi" height="30" width="40" /></a>
-<a href="https://instagram.com/forkanimahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="forkanimahdi" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="28" alt="sass logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="28" alt="laravel logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" alt="npm logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="28" alt="visualstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="28" alt="photoshop logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forkanimahdi&show_icons=true&locale=en&layout=compact" alt="forkanimahdi" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&show_icons=true&locale=en" alt="forkanimahdi" /></p>
+<img align="left" height="113" src="https://avatars.githubusercontent.com/u/96060207?v=4"  />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&" alt="forkanimahdi" /></p>
+###
+
+<h6 align="left">I'm a passionate web developer and self-learner from Casablanca, Morocco. My journey began with a diploma in commerce, where I specialized in selling techniques, marketing, statistics, and accountability.<br><br>🚀 **Passion**: I love building things from scratch and delving into the intricacies of web development. My goal is to leave a mark in the web domain by crafting innovative solutions that genuinely help people.<br><br>💡 **Projects**: I've created templates ( restaurants, cafes), and even developed fun games like Pokemon, pair matching, and X-O. Exploring new challenges fuels my drive for continuous improvement.<br><br>Feel free to explore my repositories and let's collaborate on exciting projects.  😄<br><br>You can contact me on all social media app using the links bellow</h6>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.instagram.com/forkanimahdi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/forkanimahdi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="20" alt="discord logo"  />
+  </a>
+  <a href="forkanimahdi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/forkanimahdi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/forkanimahdi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="43" height="20" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+
+
