@@ -1,8 +1,4 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=forkanimahdi.forkanimahdi&left_color=black&right_color=rebeccapurple&left_text=You are the visitor :"  />
-</div>
 
-###
 
 <h4 align="left">Hey there, I'm Mehdi Forkani! 👋</h4>
 
