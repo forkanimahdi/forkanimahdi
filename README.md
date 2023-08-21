@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=forkanimahdi&label=Profile%20views&color=0e75b6&style=flat" alt="forkanimahdi" /> 
+  <img src="https://komarev.com/ghpvc/?username=forkanimahdi&label=Profile%20views&color=4b0082&style=flat" alt="forkanimahdi" /> 
 </div>
 
 ###
