@@ -9,9 +9,12 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&hide_title=false&hide_rank=false&show_icons=true&&card_width=400&langs_count=5&include_all_commits=true&count_private=true&disable_animations=trur&theme=midnight-purple&locale=en&hide_border=true" height="160" width="500" alt="stats graph"  />
 
-<img  width="400"  height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&theme=midnight-purple" alt="forkanimahdi" />
+  <img  width="400"  height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&theme=midnight-purple" alt="forkanimahdi" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&hide_title=false&hide_rank=false&show_icons=true&&card_width=300&langs_count=5&include_all_commits=true&count_private=true&disable_animations=trur&theme=midnight-purple&locale=en&hide_border=true" height="160"  alt="stats graph"  />
+
+
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=forkanimahdi&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=5&theme=midnight-purple&hide_border=true"  height="150" alt="languages graph"  />
 
