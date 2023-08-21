@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/forkanimahdi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="20" alt="instagram logo"  />
   </a>
