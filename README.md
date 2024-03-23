@@ -56,7 +56,8 @@
 
 ###
 
-<h6 align="left">I'm a passionate web developer and self-learner from Casablanca, Morocco. My journey began with a diploma in commerce, where I specialized in selling techniques, marketing, statistics, and accountability.<br><br>🚀 **Passion**: I love building things from scratch and delving into the intricacies of web development. My goal is to leave a mark in the web domain by crafting innovative solutions that genuinely help people.<br><br>💡 **Projects**: I've created templates ( restaurants, cafes), and even developed fun games like Pokemon, pair matching, and X-O. Exploring new challenges fuels my drive for continuous improvement.<br><br>Feel free to explore my repositories and let's collaborate on exciting projects.  😄<br><br>You can contact me on all social media app using the links bellow</h6>
+<h3 align="left">Passionate self-taught software developer from Casablanca, Morocco, crafting digital solutions with innovation and flair. Let's bring ideas to life together! Reach out via social media links below. 😄🚀 check my portfolio in forkanimahdi.vercel.app </h3>
+
 
 ###
 
