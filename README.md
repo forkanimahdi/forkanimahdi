@@ -56,7 +56,20 @@
 
 ###
 
-<h3 align="left">Passionate self-taught software developer from Casablanca, Morocco, crafting digital solutions with innovation and flair. Let's bring ideas to life together! Reach out via social media links below. 😄🚀 check my portfolio in forkanimahdi.vercel.app </h3>
+<ul>
+<li><h4>
+Passionate self-taught software developer from Casablanca, Morocco
+</h4></li>
+<li><h4>
+Skilled in both web and mobile app development.
+</h4></li>
+<li><h4>
+Crafting digital solutions with innovation and flair
+</h4></li>
+<li><h4>
+check my <a href="forkanimahdi.vercel.app">portfolio</a> </h4></li>
+</ul>
+<p align="left"> Reach out via social media links below. 😄🚀  </p>
 
 
 ###
