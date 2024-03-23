@@ -27,17 +27,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"  />
   <img width="15" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" alt="javascript logo"  />
-  <img width="20" />
+  <img width="80" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
   <img width="15" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="28" alt="sass logo"  />
-  <img width="20" />
+<img width="80" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="tailwindcss logo"  />
-  <img width="20" />
+<img width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
-  <img width="20" />
+<img width="80" />
   <img src="https://skillicons.dev/icons?i=laravel" height="28" alt="laravel logo"  />
-  <img width="20" />
+<img width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
   <img width="20" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="bash logo"  />
@@ -45,14 +45,14 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" alt="npm logo"  />
   <img width="15" /> -->
   <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo"  />
-  <img width="20" />
+<img width="80" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="28" alt="visualstudio logo"  />
   <img width="15" /> -->
 </div>
 
 ###
 
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/96060207?v=4"  />
+<img align="left" height="180" src="https://avatars.githubusercontent.com/u/96060207?v=4"  />
 
 ###
 
