@@ -10,9 +10,9 @@
 
 <div align="left">
 
-  <img  width="300"  height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&theme=midnight-purple" alt="forkanimahdi" />
+  <img  width="400"  height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&theme=midnight-purple" alt="forkanimahdi" />
   
-  <img width="300"  src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&hide_title=false&hide_rank=false&show_icons=true&&card_width=300&langs_count=5&include_all_commits=true&count_private=true&disable_animations=trur&theme=midnight-purple&locale=en&hide_border=true" height="160"  alt="stats graph"  />
+  <img width="400"  src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&hide_title=false&hide_rank=false&show_icons=true&&card_width=300&langs_count=5&include_all_commits=true&count_private=true&disable_animations=trur&theme=midnight-purple&locale=en&hide_border=true" height="160"  alt="stats graph"  />
 
   
  
@@ -69,7 +69,6 @@ Crafting digital solutions with innovation and flair
 <li><h3>
 check my <a href="forkanimahdi.vercel.app">portfolio</a> </h3></li>
 </ul>
-<p align="left"> Reach out via social media links below. 😄🚀  </p>
 
 
 ###
