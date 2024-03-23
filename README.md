@@ -52,22 +52,22 @@
 
 ###
 
-<img align="left" height="113" src="https://avatars.githubusercontent.com/u/96060207?v=4"  />
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/96060207?v=4"  />
 
 ###
 
 <ul>
-<li><h4>
+<li><h3>
 Passionate self-taught software developer from Casablanca, Morocco
-</h4></li>
-<li><h4>
+</h3></li>
+<li><h3>
 Skilled in both web and mobile app development.
-</h4></li>
-<li><h4>
+</h3></li>
+<li><h3>
 Crafting digital solutions with innovation and flair
-</h4></li>
-<li><h4>
-check my <a href="forkanimahdi.vercel.app">portfolio</a> </h4></li>
+</h3></li>
+<li><h3>
+check my <a href="forkanimahdi.vercel.app">portfolio</a> </h3></li>
 </ul>
 <p align="left"> Reach out via social media links below. 😄🚀  </p>
 
