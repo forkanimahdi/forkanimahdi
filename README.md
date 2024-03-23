@@ -14,39 +14,40 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&hide_title=false&hide_rank=false&show_icons=true&&card_width=300&langs_count=5&include_all_commits=true&count_private=true&disable_animations=trur&theme=midnight-purple&locale=en&hide_border=true" height="160"  alt="stats graph"  />
 
+  
+ 
 
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"  />
-  <img width="15" />
+  <img width="15" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
-  <img width="15" />
+  <img width="20" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
+  <img width="15" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="28" alt="sass logo"  />
-  <img width="15" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="tailwindcss logo"  />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
-  <img width="15" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=laravel" height="28" alt="laravel logo"  />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="bash logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" alt="npm logo"  />
-  <img width="15" />
+  <img width="20" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="bash logo"  />
+  <img width="15" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" alt="npm logo"  />
+  <img width="15" /> -->
   <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="28" alt="visualstudio logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="28" alt="photoshop logo"  />
+  <img width="20" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="28" alt="visualstudio logo"  />
+  <img width="15" /> -->
 </div>
 
 ###
