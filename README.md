@@ -1,4 +1,4 @@
-<h2 align="center">👋 سلام العالم — Hey there, I’m Mehdi Forkani</h2>
+<h2 align="center"> سلام العالم — Hello World</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Tech+Coach;Building+impactful+Web+%26+Mobile+Apps;Laravel+%2B+Inertia+%2B+React+Native;Let's+build+something+bold!"/>
