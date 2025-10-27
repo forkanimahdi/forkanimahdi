@@ -8,7 +8,7 @@
 
 ```js
 const full_name = "Mehdi Forkani";
-const from = "Morocco 🇲🇦";
+const from = "Casablanca - Morocco ";
 const role = "Full-Stack Developer & Tech Coach";
 const philosophy = "Diamonds are forged under pressure. 💎";
 
@@ -19,13 +19,6 @@ const stack = {
   tools: ["Git"]
 };
 
-const socials = {
-  portfolio: "https://forkanimahdi.vercel.app/",
-  github: "https://github.com/forkanimahdi",
-  twitter: "https://twitter.com/forkanimahdi",
-  linkedin: "https://linkedin.com/in/forkanimahdi",
-  instagram: "https://instagram.com/forkanimahdi",
-};
 ```
 
 ---
@@ -48,12 +41,6 @@ For me, **code is only the beginning**; the real mission is **impact**.
 
 ---
 
-### 💡 What I Build
-
-* ⚡ Dynamic full-stack apps using **Laravel + Inertia + React**
-* 📱 Cross-platform mobile apps with **React Native**
-* 🧭 Backend APIs that actually scale
-* 🌍 Real-world solutions that make an impact
 
 ---
 
@@ -61,7 +48,7 @@ For me, **code is only the beginning**; the real mission is **impact**.
 
 <p align="center">
   <a href="https://forkanimahdi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
