@@ -10,7 +10,7 @@
 const full_name = "Mehdi Forkani";
 const from = "Morocco 🇲🇦";
 const role = "Full-Stack Developer & Tech Coach";
-const philosophy = "Tech is more than code — it’s about creating impact, solving real problems, and pushing bold ideas into the world.";
+const philosophy = "Diamonds are forged under pressure. 💎";
 
 const stack = {
   frontend: ["React", "React Native", "TailwindCSS"],
@@ -20,6 +20,7 @@ const stack = {
 };
 
 const socials = {
+  portfolio: "https://forkanimahdi.vercel.app/",
   github: "https://github.com/forkanimahdi",
   twitter: "https://twitter.com/forkanimahdi",
   linkedin: "https://linkedin.com/in/forkanimahdi",
@@ -56,6 +57,21 @@ For me, **code is only the beginning**; the real mission is **impact**.
 
 ---
 
+### 🌐 Portfolio
+
+<p align="center">
+  <a href="https://forkanimahdi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>→ Explore my work, projects, and design philosophy at</b><br/>
+  <a href="https://forkanimahdi.vercel.app/">forkanimahdi.vercel.app</a>
+</p>
+
+---
+
 ### 🌐 Let’s Connect
 
 <p align="center">
@@ -70,12 +86,12 @@ For me, **code is only the beginning**; the real mission is **impact**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&show_icons=true&theme=tokyonight" alt="Mehdi's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&show_icons=true&theme=tokyonight" alt="Mehdi's GitHub stats" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&theme=tokyonight" alt="GitHub Streak" height="140" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=forkanimahdi&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=forkanimahdi&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="GitHub Activity Graph" width="90%"/>
 </p>
 
 ---
