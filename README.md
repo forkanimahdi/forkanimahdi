@@ -1,101 +1,57 @@
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=forkanimahdi&label=Profile%20views&color=4b0082&style=flat" alt="forkanimahdi" /> 
-</div>
-
-###
-
-<h4 align="left">Hey there, I'm Mehdi Forkani! 👋</h4>
-
-###
-
-<div align="left">
-
-  <img  width="400"  height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=forkanimahdi&theme=midnight-purple" alt="forkanimahdi" />
+<div align="center"><h1>سلام العالم 👋</h1><p>I'm Mehdi, a full-stack developer from Morocco 🇲🇦</p><p>I turn bold ideas into high-impact web and mobile applications.</p><!-- Cool Animated GIF --><img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggACmCgX9vGytJ/giphy.gif" width="80%"><!-- The JavaScript "About Me" Object --><h2>My Source Code 🧑‍💻</h2><p>Here's a little bit about me in my favorite language.</p></div>const mehdi = {
+  pronouns: "He" | "Him",
+  location: "Morocco 🇲🇦",
+  title: "Full-Stack Developer & Tech Mentor",
   
-  <img width="400"  src="https://github-readme-stats.vercel.app/api?username=forkanimahdi&hide_title=false&hide_rank=false&show_icons=true&&card_width=300&langs_count=5&include_all_commits=true&count_private=true&disable_animations=trur&theme=midnight-purple&locale=en&hide_border=true" height="160"  alt="stats graph"  />
+  philosophy: [
+    "Tech is more than code",
+    "It’s about creating impact",
+    "Solving real problems",
+    "Pushing ideas into the world"
+  ],
 
+  work: {
+    collaborators: ["Startups", "Enterprise", "Growing Talents"],
+    stack: {
+      frontend: ["React", "Next.js", "Vue", "TailwindCSS"],
+      backend: ["Node.js", "NestJS", "Express", "Serverless"],
+      mobile: ["React Native"],
+      database: ["PostgreSQL", "MongoDB", "Firebase"]
+    }
+  },
+
+  // I believe in lifting others as we grow.
+  community: (person) => {
+    if (person.isYouth || person.isGrowingTalent) {
+      return coach(person, "Rise in Tech 🚀");
+    }
+  },
   
- 
+  motto: "If it’s bold, let’s build it."
+};
 
-</div>
+console.log(`Now building: ${mehdi.motto}`);
+<div align="center"><!-- Tech Stack Badges --><h2>My Tech Universe 🌌</h2><p>Tools and technologies I love to work with.</p><p><!-- Favorite Languages --><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/><br/>
 
-###
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
-<div align="left">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"  />
-  <img width="15" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" alt="javascript logo"  />
-  <img width="80" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
-  <img width="15" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="28" alt="sass logo"  />
-<img width="80" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="tailwindcss logo"  />
-<img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
-<img width="80" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="28" alt="laravel logo"  />
-<img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
-  <img width="20" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="bash logo"  />
-  <img width="15" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" alt="npm logo"  />
-  <img width="15" /> -->
-  <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo"  />
-<img width="80" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="28" alt="visualstudio logo"  />
-  <img width="15" /> -->
-</div>
+<br/>
 
-###
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 
-<img align="left" height="180" src="https://avatars.githubusercontent.com/u/96060207?v=4"  />
+<br/>
 
-###
-
-<ul>
-<li><h3>
-Passionate self-taught software developer from Casablanca, Morocco
-</h3></li>
-<li><h3>
-Skilled in both web and mobile app development.
-</h3></li>
-<li><h3>
-Crafting digital solutions with innovation and flair
-</h3></li>
-<li><h3>
-check my <a href="forkanimahdi.vercel.app">portfolio</a> </h3></li>
-</ul>
-
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.instagram.com/forkanimahdi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="20" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/forkanimahdi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="20" alt="discord logo"  />
-  </a>
-  <a href="forkanimahdi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="20" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/forkanimahdi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/forkanimahdi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="43" height="20" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-
-
+<!-- Database & Tools -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p><!-- GitHub Stats --><h2>My GitHub Vitals 📊</h2><p><!-- GitHub Stats Card --><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26cache_seconds%3D86400%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Mehdi's GitHub Stats" /><!-- Top Languages Card --><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26cache_seconds%3D86400" alt="Mehdi's Top Languages" /></p><!-- Final Motto --><h1>"If it’s bold, let’s build it."</h1><!-- Connect with me --><p><a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a><a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/></a></p></div><!--Hey Mehdi! Just replace:YOUR_USERNAME with your GitHub username (in two places for the stats).YOUR_LINKEDIN_USERNAME with your LinkedIn profile name.YOUR_TWITTER_USERNAME with your Twitter handle.Good luck!-->
