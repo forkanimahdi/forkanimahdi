@@ -1,7 +1,7 @@
 <h2 align="center"> سلام العالم — Hello World</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Tech+Coach;Building+impactful+Web+%26+Mobile+Apps;Laravel+%2B+Inertia+%2B+React+Native;Let's+build+something+bold!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=ffffff&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Tech+Coach;Building+impactful+Web+%26+Mobile+Apps;Laravel+%2B+Inertia+%2B+React+Native;Diamonds + are + forged + under + pressure.!"/>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 const full_name = "Mehdi Forkani";
 const from = "Casablanca - Morocco ";
 const role = "Full-Stack Developer & Tech Coach";
-const philosophy = "Diamonds are forged under pressure. 💎";
+const philosophy = "👑 ما دام الأمل طريقا فسنحياه 👑";
 
 const stack = {
   frontend: ["React", "React Native", "TailwindCSS"],
