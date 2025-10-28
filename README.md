@@ -5,7 +5,7 @@
 <h2 align="center">سلام العالم — Hello World</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=ffffff&center=true&vCenter=true&width=600&lines=Software%20Developer%20%7C%20Tech%20Coach;Building%20impactful%20Web%20%26%20Mobile%20Apps;Laravel%20%2B%20Inertia%20%2B%20React%20Native;Diamonds%20are%20forged%20under%20pressure💎"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=ffffff&center=true&vCenter=true&width=600&lines=Software%20Developer%20%7C%20Tech%20Coach;Building%20impactful%20Web%20%26%20Mobile%20Apps;Laravel%20%2B%20Inertia%20%2B%20React%20Native;Diamonds%20are%20forged%20under%20pressure.!"/>
 </p>
 
 
