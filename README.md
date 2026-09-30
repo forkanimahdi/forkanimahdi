@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://forkanimahdi.vercel.app/assets/myLogo-CRW49igc.png" alt="Mehdi Logo" width="120" />
+  <img src="https://forkanimahdi.com/assets/myLogo-CRW49igc.png" alt="Mehdi Logo" width="120" />
 </p>
 
 <h2 align="center">سلام العالم — Hello World</h2>
