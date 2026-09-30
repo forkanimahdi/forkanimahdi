@@ -52,14 +52,14 @@ For me, **code is only the beginning**; the real mission is **impact**.
 ### 🌐 Portfolio
 
 <p align="center">
-  <a href="https://forkanimahdi.vercel.app/" target="_blank">
+  <a href="https://forkanimahdi.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   <b>→ Explore my work, projects, and design philosophy at</b><br/>
-  <a href="https://forkanimahdi.vercel.app/">forkanimahdi.vercel.app</a>
+  <a href="https://forkanimahdi.com/">forkanimahdi.com</a>
 </p>
 
 ---
