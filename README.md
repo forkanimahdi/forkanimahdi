@@ -14,7 +14,7 @@
 ```js
 const full_name = "Mehdi Forkani";
 const from = "Casablanca - Morocco ";
-const role = "Full-Stack Developer & Tech Coach";
+const role = "Mobile & Web App Developer & Tech Coach";
 const philosophy = "👑 ما دام الأمل طريقا فسنحياه 👑";
 
 const stack = {
